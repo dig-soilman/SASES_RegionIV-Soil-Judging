@@ -8,10 +8,8 @@ These sources are meant to serve the coaches. They are presented in Portable Doc
 
 ### Source access
 
-To procure a word processor version one would have to contact the contest host for the year of interest. Alternately, conversion back to a word processor version is an alternative, ymmv.
+To procure a word processor version one would have to contact the contest host for the year of interest. Alternately, conversion back to a word processor version via pandoc, Acrobat, or other is an alternative, ymmv.
 
-### If you are a host of a contest not represented here
+### If you are a host of a contest and the guide and score card are not represented here consider contrubuting it to this repository.
 
-If you will contribute you may pull with git or GitHub, but you might contact Donald G McGahan aka dig-soilman to alert him so that your pull may be approved.
-
-
+If you will contribute you may with git or GitHub, but you might contact Donald G McGahan aka dig-soilman to alert him so that your pull may be approved.
