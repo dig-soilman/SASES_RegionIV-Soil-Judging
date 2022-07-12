@@ -16,4 +16,4 @@ To procure a word processor version one would have to contact the contest host f
 
 ### If you are a host of a contest and the guide and score card are not represented here consider contrubuting it to this repository.
 
-If you will contribute you may with git or GitHub, but you might contact Donald G McGahan aka dig-soilman to alert him so that your pull may be approved.
+If you will contribute you may with git or GitHub, but you might contact [Donald G McGahan](https://dig-soilman.github.io) aka dig-soilman to site the repository or to alert him so that your pull may be approved.
